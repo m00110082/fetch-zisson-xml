@@ -1,0 +1,4 @@
+pandas>=1.1.4
+SQLAlchemy>=1.4.43 
+azure-keyvault-secrets>=4.6.0 
+azure-identity>=1.11.0
