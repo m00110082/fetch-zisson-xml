@@ -2,7 +2,7 @@ from zisson_utils import filter_blank_columns
 import pandas as pd
 import requests
 import xml.etree.ElementTree as ET
-import pymssql
+# import pymssql
 from sqlalchemy import create_engine
 import os
 from azure.keyvault.secrets import SecretClient
